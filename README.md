@@ -151,7 +151,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Projects section -->
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/HaseebAsif?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
