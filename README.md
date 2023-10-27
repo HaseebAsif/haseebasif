@@ -129,10 +129,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
   <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
-
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
 <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-
 </p>
 <br>
 
